@@ -38,3 +38,6 @@ I combine a scientific background with emerging skills in programming, web devel
 - **LinkedIn**: [jcmgana](https://www.linkedin.com/in/jcmgana)
 - **Email**: makarjoa@gmail.com
 
+---
+
+Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to connect or collaborate.  
