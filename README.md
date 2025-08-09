@@ -30,6 +30,7 @@ I combine a scientific background with emerging skills in programming, web devel
 ---
 
 ### ⚡ Fun fact: 
+- We're all fishes
 - I love getting lost in stories, whether in movies, books, or videogames. Just give me *The Lord of the Rings* and I'm happy.
 
 ---
